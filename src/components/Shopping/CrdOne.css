@@ -1,0 +1,50 @@
+.crd-flexs {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.arrCrd-section{
+    padding-top: 50px;
+}
+.arrcrd-titles{
+    color: #959596;
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+.arrcrd-texts{
+    color: #ff4e00;
+    font-weight: 800;
+    font-size: 15px;
+}
+
+.stocks {
+    background-color: #F60B0E;
+    color: #fff;
+    position: absolute;
+    transform: rotate(270deg);
+    font-size: 14px;
+    padding: 1px 20px;
+    top: 21px;
+    left: 185px;
+}
+.prod-stocks{
+    position: relative;
+   
+}
+.dble-img{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-bottom: 30px;
+}
+.dble-img img{
+    width: 100%;
+    max-width: 470px;
+}
+.dble-img h5{
+    color: #fff;
+}
+.width-crd{
+    width: 240px;
+}

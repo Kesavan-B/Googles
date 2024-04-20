@@ -1,0 +1,60 @@
+
+.fl-right{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+a.nav-link {
+    margin-left: 35px;
+    font-size: 18px;
+    color: #828264;
+    letter-spacing: 1px;
+}
+a.nav-link:hover{
+    color: #ff4e00;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.nav-name {
+    font-size: 50px;
+    font-family: poppins;
+    font-weight: 800;
+    margin: 0;
+    font-family: sans-serif;
+    color: #454645;
+}
+.helps{
+    color:'#9c9b9b';
+    letter-spacing: 2px;
+    font-size: 14px;
+}
+
+
+.login-form {
+   
+    width: 80%;
+    margin: 0px auto;
+}
+.fields{
+    margin-bottom: 20px;
+}
+.signin-button{
+    text-align: center;
+}
+.form-div {
+    background: #343a40;
+    padding: 25px;
+    border-radius: 10px;
+    width: 80%;
+    margin: 0px auto;
+}
+.whiteBorder {
+    border-color: white !important;
+  }
+.aler{
+    color: red;
+}

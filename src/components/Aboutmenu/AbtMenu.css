@@ -1,0 +1,39 @@
+.abt-banner{
+    background: url(/src/assests/images/abtbanner.jpg)no-repeat 0px -73px;
+    width: 100%;
+    min-height: 180px;
+    background-size: cover;
+    position: relative;
+}
+.abt-contents{
+    padding-top: 50px;
+}
+.abt-para {
+    font-size: 16px;
+    color: #959596;
+}
+.partners{
+    padding-top: 50px;
+    text-align: center;
+}
+.partner-imag {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    padding-top: 50px;
+}
+.partner-imag img{
+    width: 100%;
+    max-width: 300px;
+}
+h4 {
+    position: absolute;
+    top: 70px;
+    left: 25px;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}

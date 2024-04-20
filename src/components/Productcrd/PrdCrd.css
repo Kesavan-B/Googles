@@ -1,0 +1,84 @@
+.stockss {
+    background-color: #959596;
+    color: #fff;
+    position: absolute;
+    transform: rotate(270deg);
+    font-size: 16px;
+    padding: 1px 33px;
+    top: 32px;
+    left: 213px;
+}
+
+.parms-titles {
+    color: #ff4e00;
+    font-size: 20px;
+    letter-spacing: 3px;
+    padding-bottom: 25px;
+}
+
+.parms-texts {
+    font-weight: 800;
+    font-size: 18px;
+}
+
+.types{
+    padding-bottom: 25px;
+}
+.main-crd {
+    width: 100%;
+    max-width: 31rem;
+    height: 30rem;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+p.parms-texts.card-text {
+    padding-bottom: 25px;
+}
+
+.tab-img img{
+    width: 100%;
+    max-width: 200px;
+}
+.full-tab{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    column-gap: 15px;
+}
+span.MuiTypography-root.MuiTypography-body1.MuiFormControlLabel-label.css-ahj2mt-MuiTypography-root {
+    font-size: 14px;
+}
+
+
+
+.dialog-close{
+    text-align: right;
+}
+.dialog-actions{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+}
+.dialog-items-list{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+ 
+}
+.dialog-items{
+    border: 1px solid #000;
+}
+.dialog-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 16px;
+}
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation24.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthSm.MuiDialog-paperFullWidth.css-tlc64q-MuiPaper-root-MuiDialog-paper {
+    position: absolute;
+    top: 31px;
+    right: -12px;
+}

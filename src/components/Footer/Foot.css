@@ -1,0 +1,31 @@
+.footers{
+    background-color: #212529;
+    height: auto;
+    width: 100%;
+    margin-top: 25px;
+}
+.Fots{
+    color: #fff;
+}
+.Fots p{
+    font-size: 14px;
+    color: #959596;
+}
+.Fots span{
+    color: #ff4e00;
+    font-size: 17px;
+}
+.fots-cont{
+    padding: 30px 0px;
+}
+.social-media{
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+}
+.Fots ul{
+    font-size: 15px;
+    list-style-type: none;
+    line-height: 35px;
+    color: #959596;
+}

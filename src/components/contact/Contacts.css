@@ -1,0 +1,62 @@
+.Contactus-tit {
+    text-align: center;
+
+}
+
+.Contactus-tit h2 {
+
+    color: #353434;
+    font-size: 40px;
+}
+
+.Contactus-tit p {
+
+    color: #959494;
+    font-size: 16px;
+    padding-bottom: 40px;
+}
+
+.Contactus-crd {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.Contactus-flx {
+    display: flex;
+    align-items: flex-start;
+
+}
+
+.icns-txt p {
+    color: #959596;
+    font-size: 16px;
+}
+
+.icons {
+    color: #ff4e00;
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.Contactus-div {
+    padding-top: 40px;
+
+}
+
+.label.form-label {
+    font-size: 16px;
+}
+input.form-control.form-control-lg {
+    margin-bottom: 35px;
+}
+textarea#exampleForm\.ControlTextarea1 {
+    margin-bottom: 10px;
+}
+.full-frm{
+    padding-top: 50px;
+}
+form {
+    width: 100%;
+}

@@ -1,0 +1,65 @@
+.crd-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.arrcrd-title{
+    color: #959596;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+.arrcrd-text{
+    color: #ff4e00;
+    font-weight: 800;
+    font-size: 17px;
+}
+h1.newarrival-head {
+    margin-top: 85px;
+    margin-bottom: 50px;
+}
+.stock {
+    background-color: #F60B0E;
+    color: #fff;
+    position: absolute;
+    transform: rotate(270deg);
+    font-size: 16px;
+    padding: 1px 33px;
+    top: 32px;
+    left: 213px;
+}
+.prod-stock{
+    position: relative;
+   
+}
+
+
+.dialog-close{
+    text-align: right;
+}
+.dialog-actions{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+}
+.dialog-items-list{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+ 
+}
+.dialog-items{
+    border: 1px solid #000;
+}
+.dialog-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 16px;
+}
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation24.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthSm.MuiDialog-paperFullWidth.css-tlc64q-MuiPaper-root-MuiDialog-paper {
+    position: absolute;
+    top: 31px;
+    right: -12px;
+}

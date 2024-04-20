@@ -1,0 +1,30 @@
+.Drawer{
+    background: #fff;
+    height:'auto'
+}
+.Deal-offer span{
+    color:'#000'
+}
+.Deal-offer{
+    padding-bottom: 10px;
+}
+ul li{
+    list-style-type: none;
+}
+.draw-img img{
+    width: 100%;
+    max-width: 60px;
+}
+.draw-rows{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    
+}
+.draw-img{
+    border: 0.5px solid lightgray;
+    padding: 0px;
+}
+ul {
+    padding: 0;
+}
